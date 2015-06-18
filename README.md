@@ -7,7 +7,6 @@ PureMVC is a lightweight framework for creating applications based upon the clas
 ## Demos
 
 ## Utilities
-* [Pipes](https://github.com/PureMVC/puremvc-java-util-pipes/wiki)
 
 ## Status
 Development
