@@ -13,7 +13,7 @@ PureMVC is a lightweight framework for creating applications based upon the clas
 Development
 
 ## Platforms / Technologies
-* [Java](http://en.wikipedia.org/wiki/Java_(programming_language\))
+* [Java](http://en.wikipedia.org/wiki/Java_(programming_language))
 
 ## License
 * PureMVC MultiCore Framework for Java (Ported) - Copyright © 2015-2025 Saad Shams
